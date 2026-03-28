@@ -40,18 +40,20 @@
     "url": "https://moe.suicaodex.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/moe.suicaodex.com.ico",
     "slug": "moetruyen-public-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 838,
-    "timeWeek": 763,
-    "timeMonth": 763,
-    "timeYear": 763,
-    "dailyMinutesDown": {}
+    "time": 775,
+    "timeDay": 832,
+    "timeWeek": 775,
+    "timeMonth": 775,
+    "timeYear": 775,
+    "dailyMinutesDown": {
+      "2026-03-28": 0
+    }
   },
   {
     "name": "WeebDex Revert Proxy",
