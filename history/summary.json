@@ -10,11 +10,11 @@
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 957,
-    "timeDay": 1082,
-    "timeWeek": 965,
-    "timeMonth": 957,
-    "timeYear": 957,
+    "time": 951,
+    "timeDay": 865,
+    "timeWeek": 950,
+    "timeMonth": 951,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2026-04-04": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.51%",
-    "time": 966,
-    "timeDay": 1109,
-    "timeWeek": 975,
-    "timeMonth": 966,
-    "timeYear": 966,
+    "time": 957,
+    "timeDay": 795,
+    "timeWeek": 950,
+    "timeMonth": 957,
+    "timeYear": 957,
     "dailyMinutesDown": {
       "2026-04-04": 18,
       "2026-04-03": 22,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 751,
-    "timeDay": 788,
-    "timeWeek": 769,
-    "timeMonth": 751,
-    "timeYear": 751,
+    "time": 746,
+    "timeDay": 676,
+    "timeWeek": 745,
+    "timeMonth": 746,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2026-03-28": 20
     }
@@ -67,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wd.memaydex.online.ico",
     "slug": "weeb-dex-revert-proxy",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 342,
+    "uptime": "99.36%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 408,
+    "timeDay": 334,
     "timeWeek": 406,
-    "timeMonth": 409,
-    "timeYear": 409,
+    "timeMonth": 408,
+    "timeYear": 408,
     "dailyMinutesDown": {
-      "2026-04-05": 0
+      "2026-04-06": 41,
+      "2026-04-05": 57
     }
   }
 ]
