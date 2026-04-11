@@ -9,8 +9,6 @@ sites:
     url: https://mato.suicaodex.com
   - name: Moetruyen Public API
     url: https://moe.suicaodex.com/health
-  - name: WeebDex Revert Proxy
-    url: https://wd.memaydex.online/manga
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
